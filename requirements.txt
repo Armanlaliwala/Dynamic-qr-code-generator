@@ -1,3 +1,2 @@
-BytesIO
 qrcode
 flask
