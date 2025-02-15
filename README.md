@@ -69,7 +69,7 @@ Want to run this project locally? Follow these steps:
 
 ---
 ## **Try It Out!**
-🎉 Generate your own QR code here: **[Live Demo](#)**
+🎉 Generate your own QR code here: **[Live Demo](https://qr-code-generator-by-armanlaliwala.onrender.com/)**
 
 ---
 ## **Let’s Connect!**
